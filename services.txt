@@ -1,0 +1,21 @@
+Web Designing 
+Responsive, intuitive and clean  UI Design and mockups for web sites, mobile apps and desktop applications
+
+Web Development 
+Complex enterprise level web applications with enhanced user experince for small and large scale business. 
+
+Mobile Applications 
+Innovative mobile application development services for different platforms such as Android, IOS and Windows.
+
+Desktop Applications
+Platform-specific and cross-platform desktop app development services for small and large scale business.
+
+Web API Development  
+Cross platform APIs which are highly secure and scalable and can be accessed from any client including browsers and mobile devices. 
+
+Other Services 
+Chrome extensions development, Search engine optimization, Web hosting, Quality assurance services and much more ...
+
+
+
+

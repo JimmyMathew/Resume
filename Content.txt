@@ -1,0 +1,45 @@
+Work related projcts and description 
+
+Failure Analysis System 
+Framework components 
+Dynamic Form Management 
+Resource Forecasting 
+Record Management System
+Translator 
+
+
+Freelance projects 
+SMS Weighbridge 
+Loyola College Website 
+College Department Festival Automation 
+Jayaam Galvanizers Mobile and enterprise application 
+
+
+Skill set 
+HTML 5
+CSS 3
+JavaScript
+jQuery
+Bootstrap 4
+Angualar 7
+AngularJS
+ASP.NET MVC 5
+ASP.NET Web API
+Entity Framework
+Kendo UI Framework
+Ionic Framework
+Laravel Framework
+C#
+Java
+PHP
+SQL Server
+MySQL
+SQLite
+
+
+
+
+
+
+
+
